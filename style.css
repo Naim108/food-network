@@ -1,0 +1,101 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+.food-content{
+    display: flex;
+    margin-bottom: 30px;
+    margin-top: 50px;
+    padding: 20px;
+}
+.highlight-bar{
+    margin-bottom: 70px;
+}
+h1{
+    font-size: 70px;
+    font-weight: bold;
+}
+p{
+    font-size: 16px;
+    
+}
+.special-color{
+    color: orange;
+}
+.food-title{
+    width: 50%;
+    padding: 10px;
+    
+    
+   
+}
+.food-title img{
+    width: 90%;
+}
+
+.food-title1 img{
+    width: 43.5%;
+    
+    margin-left: 200px;
+    
+}
+.order-btn{
+    text-decoration: none;
+    background-image: linear-gradient(tomato ,orange );
+    padding: 20px 50px;
+    border-radius: 30px;
+    font-weight: bold;
+    color: white;
+}
+.about-section{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    
+}
+
+#recipies{
+    text-align: center;
+}
+.recipies-image{
+    width: 100%;
+    margin-right: 2%;
+    margin-left: 2%;
+    padding: 4px;
+    box-shadow: 10px 15px 40px gray;
+    border-radius: 30px;
+}
+.recipies-image img{
+    width: 270px;
+    border-radius: 30px;
+    padding: 50px;
+}
+.recipies-image p{
+    margin: 20px;
+}
+.social-media{
+    display: flex;
+    
+    width: 93%;
+    margin: 50px;
+    padding:2px;
+    border-radius: 20px;
+    box-shadow:  4px 4px 8px #424747;
+}
+.react{
+    text-align: center;
+    margin: 60px;
+    padding: 30px;
+}
+
+
+
+
+ h2{
+    margin: 10px;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 40px;
+}
